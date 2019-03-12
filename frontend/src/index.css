@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.main-page-header{
+  background-color: #282c34;
+  padding: 15px;
+  font-style: italic;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+}
+.main-page-task-column{
+  color: white;
+  font-family:sans-serif;
+  border-color: gray;
+}
+.main-page-side-column{
+  color: black;
+  font-style: italic;
+  font-weight: bold;
+  background-color: grayscale;
+  border-style:hidden;
+  border-radius: 5px;
+  display: block;
+  border-color: #0000ff;
+  text-align: left;
+}
+div.task-row{
+  background: #282c34;
+  border-radius: 5px;
+  border-color: #cc0066;
+  margin-top: 5px;
+}
+.TaskId{
+  padding: 10px 10px;
+  text-align: center;
+}
+.TaskTitle{
+  padding: 10px 10px;
+  text-align: center;
+}
+.TaskDecsription{
+  padding: 10px 10px;
+  text-align:center;
+}
+.pen{
+  color: orange;
+  padding-top: 10px;
+  text-align: right;
+}
+.dumpster{
+  text-align: left;
+  color: red;
+  padding-top: 10px;
+}
+.pen-icon:hover, .dumpster-icon:hover{
+  font-size: 150%;
+}

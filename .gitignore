@@ -1,0 +1,8 @@
+*.class
+.idea
+target/
+build/
+frontend/node_modules/
+backend/target/
+project/target/
+
