@@ -59,3 +59,11 @@ $ yarn start or npm start
 Service should be up and running on `http://localhost:3000`.
 
 Frontend showcases the various reactive components used but functionally they are not integrated.
+
+
+References:
+1. https://github.com/mvanbrummen/movie-spoiler-app
+2. https://github.com/akka/akka-http-quickstart-scala.g8
+3. http://slick.lightbend.com/doc/3.0.0/gettingstarted.html
+4. https://developer.lightbend.com/guides/akka-http-quickstart-scala/
+5. Twitter Scala school https://twitter.github.io/scala_school/
